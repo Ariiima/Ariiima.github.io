@@ -1,0 +1,42 @@
+body,html {
+    height: 100%;
+    width: 100%;
+    background: url("st/header.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: #fef9ef;
+    font-size: 3rem;
+}
+
+.buffer {
+    height: 10rem;
+}
+
+hr {
+    color: #fe6d73;
+    border-radius: 70px;
+    max-width: 40px;
+    min-height: 3px;
+    opacity: 1;
+}
+
+.btn-test
+{
+    background-color: #fe6d73;
+    border-color: #fe6d73;
+    padding: 13px 22px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+}
+
+.btn-test:hover{
+    background-color:#ffcb77;
+    border-color: #ffcb77;
+    padding: 15px 24px;
+}
+
